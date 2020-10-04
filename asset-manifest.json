@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Reactalculator/static/css/main.02251127.chunk.css",
+    "main.js": "/Reactalculator/static/js/main.c2f21028.chunk.js",
+    "main.js.map": "/Reactalculator/static/js/main.c2f21028.chunk.js.map",
+    "runtime-main.js": "/Reactalculator/static/js/runtime-main.300a5344.js",
+    "runtime-main.js.map": "/Reactalculator/static/js/runtime-main.300a5344.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/Reactalculator/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.18b84c87.chunk.js": "/Reactalculator/static/js/2.18b84c87.chunk.js",
+    "static/js/2.18b84c87.chunk.js.map": "/Reactalculator/static/js/2.18b84c87.chunk.js.map",
+    "index.html": "/Reactalculator/index.html",
+    "precache-manifest.ad9dad90f2f6baa9e19f2baa748377c5.js": "/Reactalculator/precache-manifest.ad9dad90f2f6baa9e19f2baa748377c5.js",
+    "service-worker.js": "/Reactalculator/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/Reactalculator/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.02251127.chunk.css.map": "/Reactalculator/static/css/main.02251127.chunk.css.map",
+    "static/js/2.18b84c87.chunk.js.LICENSE.txt": "/Reactalculator/static/js/2.18b84c87.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.300a5344.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.18b84c87.chunk.js",
+    "static/css/main.02251127.chunk.css",
+    "static/js/main.c2f21028.chunk.js"
+  ]
+}
